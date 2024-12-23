@@ -27,3 +27,8 @@ For the credit card number **4539 1488 0343 6467**:
 4. Sum all digits: 7 + 3 + 4 + 3 + 3 + 8 + 3 + 0 + 8 + 7 + 4 + 9 + 3 + 1 + 4 = 69
 5. Check total:
 - `69 % 10 = 9` (Invalid card number).
+
+## Resources
+- [Luhn Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Luhn_algorithm)
+- [Credit Card Validation Rules](https://www.creditcardvalidator.org/validation-rules)
+
